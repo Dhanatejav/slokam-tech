@@ -1,0 +1,2 @@
+# slokam-tech
+slokam
